@@ -31,7 +31,7 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color: hotpink;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
@@ -42,7 +42,7 @@ form {
     color: white;
   font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
-  font-weight: 300;
+  font-weight: bold;
   text-transform: uppercase;
   text-decoration: none;
   letter-spacing: 2px;
@@ -51,9 +51,27 @@ form {
 .btn:hover {
   box-shadow: 0 4px #2E282A;
   top: 2px; 
+  background-color: pink;
+}
+a:hover {
+  color: hotpink;
 }
 
 .btn:active {
   box-shadow: none;
   top: 6px; 
 } 
+footer {
+  background-color: hotpink;
+}
+.pfootertext {
+  color: pink;
+  font-size: 14px;
+  text-align: center;
+  padding: auto;
+}
+p {
+  text-align: center;
+  text-decoration: none;
+  color: pink;
+}
