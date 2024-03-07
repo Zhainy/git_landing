@@ -61,3 +61,12 @@ a:hover {
   box-shadow: none;
   top: 6px; 
 } 
+footer {
+  background-color: hotpink;
+}
+.pfootertext {
+  color: pink;
+  font-size: 14px;
+  text-align: center;
+  padding: auto;
+}
