@@ -70,3 +70,8 @@ footer {
   text-align: center;
   padding: auto;
 }
+p {
+  text-align: center;
+  text-decoration: none;
+  color: pink;
+}
